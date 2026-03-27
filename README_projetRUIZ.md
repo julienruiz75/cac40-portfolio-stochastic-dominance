@@ -10,7 +10,7 @@ The notebook combines **financial data collection**, **portfolio simulation**, *
 ---
 
 ## Important Note
-To access the charts properly, **download the notebook file (`projetRUIZ.ipynb`) and open it locally** in **Jupyter Notebook**, **JupyterLab**, or **VS Code**.
+To access the charts properly, **download the notebook file and open it locally** in **Jupyter Notebook**, **JupyterLab**, or **VS Code**.
 
 Some figures in this project are **interactive Plotly charts**, so they are best viewed directly from the notebook rather than through a simple file preview.
 
@@ -206,15 +206,6 @@ During execution, the notebook creates several useful outputs, including:
 - graphical comparisons of empirical CDFs and integrated CDFs,
 - and an exported CSV file for the year *t+1* performance analysis:
   - `outputs/Q10_table_pretty_SD1_SD2.csv`
-
----
-
-## How to Use the Project
-1. **Download** the notebook file `projetRUIZ.ipynb`.
-2. Open it locally in **Jupyter Notebook**, **JupyterLab**, or **VS Code**.
-3. Install the required Python packages.
-4. Run the notebook from top to bottom.
-5. Explore the interactive charts and exported outputs.
 
 ---
 
